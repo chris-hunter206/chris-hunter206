@@ -6,7 +6,8 @@ Hi, I'm a full stack developer with a diverse backround in computing technologie
 
 * Pronouns: he/him
 * Experienced Linux sysadmin and Build Automation Engineer with professional coding experience
-* Interested in interactive art, language learning, and hobby electronics
+* Interested in creative problem solving
+* Outside interests include interactive art, language learning, and hobby electronics
 
 ## Skills
 
