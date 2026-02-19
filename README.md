@@ -35,7 +35,7 @@ focus on human-centered outcomes.
 ## Contact me
 
 * [LinkedIn Profile](https://www.linkedin.com/in/christopher-hunter-10b87a7/)
-* my [resume]()
+* my [resume](Resume.pdf)
 
 ## Projects
 
