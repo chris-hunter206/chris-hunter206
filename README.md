@@ -39,6 +39,41 @@ focus on human-centered outcomes.
 
 ## Projects
 
+### University of Washington Informatics Capstone Project (In Progress)
+
+#### Vision and Goals
+
+My team's capstone project aims to improve a practical understanding of data privacy
+practices through an interactive walkthrough of common online behavior, and how
+those actions can be used to collect personal data.
+
+We use a short quiz to test initial knowledge of data collection and privacy,
+then proceed with a simulated browsing experience to show what actions (like
+hovering, clicking, and scrolling) can be captured and used to measure topic
+engagement.
+
+#### Procesess
+
+Much of the initial ideation, design, and testing was done collaboratively with
+the whole group, and we created a prototype demo using generative AI and
+implemented in React and NodeJS.
+
+#### Takeaways
+
+User research among students revealed that many had some knowledge or even
+concerns about data collection, but did not know details about the mechanics of
+how it worked, or what they could do to limit data exposure.
+
+#### Next Steps
+
+After our product demo was completed, we plan to continue making improvements,
+focusing on these items:
+  * Review and refine the codebase
+  * User Experience and accessibility improvements
+  * Adding elements to make the experience more engaging and interactive
+  * Additional demonstrations of data collection
+  * Detailed summary information on privacy best practices, and links/walkthroughs for settings on specific platforms
+
 ### Simple Redundant Cloud Web Service
 
 This project builds a geographically redundant, load-balanced pair of VM Linux-based web hosts running nginx,
