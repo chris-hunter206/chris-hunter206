@@ -1,4 +1,4 @@
-# Chris Hunter
+# Chris Hunter the great
 
 Hi, I'm a full stack developer with a diverse backround in computing technologies, working primarily
 in the broadband and casual games industries.
